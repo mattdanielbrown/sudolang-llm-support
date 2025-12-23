@@ -56,7 +56,7 @@ This is supported by both VS Code and Cursor and prabably most other VS Code com
   2. Type `code` - don't press enter.
   3. Select "Shell command: Install 'code' in PATH."
 3. Open up a terminal in the project root folder.
-4. `code --install-extension sudolang-llm-support-2.0.0-rc.1.vsix`
+4. `code --install-extension sudolang-llm-support-2.0.0.vsix`
 5. Open `syntaxes/syntax-test.sudo`. It should be syntax-highlighted.
 
 ## Learning SudoLang
